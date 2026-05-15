@@ -52,7 +52,4 @@ The goal is to uncover insights about layoffs across companies,industries,countr
   
 ## Conclusion
 The analysis shows that layoffs are influenced by economic conditions,industry trends, and company-level decisions. This project demonstrates
-strong skills in SQL, data cleaning, and Dashboard creation
-
-## Dashboard Preview
-![Dashboard](Dashboard(PowerBI).png)
+strong skills in SQL, data cleaning, and Dashboard creation.
