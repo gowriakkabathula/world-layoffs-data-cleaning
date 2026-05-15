@@ -55,4 +55,4 @@ The analysis shows that layoffs are influenced by economic conditions,industry t
 strong skills in SQL, data cleaning, and Dashboard creation
 
 ## Dashboard Preview
-![Dashboard](Dashboard(Power BI).png)
+![Dashboard](Dashboard(PowerBI).png)
